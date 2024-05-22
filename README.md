@@ -1,4 +1,4 @@
-# Boilerplate-Docker-Django-Gunicorn-Nginx
+# Boilerplate-Docker-Django-Gunicorn-Nginx W
 
 This repo contains a small example for a Django App in a Docker Container. For the deployment the docker container uses Gunicorn and nginx. 
 
